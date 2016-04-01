@@ -1,0 +1,1 @@
+Minimal sbt configuration
