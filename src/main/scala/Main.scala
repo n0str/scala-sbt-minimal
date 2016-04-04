@@ -66,7 +66,7 @@ object Main{
       val article = new articleData(title = title, content = "", link = "")
       return Some(article)
     }
-    
+
   }
 
 }
