@@ -1,4 +1,4 @@
-name := "stb-example"
+name := "sbt-example"
 
 version := "1.0"
 
